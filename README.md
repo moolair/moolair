@@ -6,25 +6,11 @@ I'm currently growing as a **Go backend developer** while building practical pro
 
 ## Current focus
 
-- Go backend development
+- AI-assisted development workflows
 - API design and backend systems
 - Practical product building
-- AI-assisted development workflows
+- Go backend development
 - Exploring agentic orchestration across frontend, backend, QA, UX/UI, and product planning
-
-## Featured projects
-
-### [SimpleBank Backend](https://github.com/moolair/simplebank-golang-backend)
-Backend banking service built with **Go**, **PostgreSQL**, **Redis**, **Docker**, **gRPC**, and authentication workflows.
-
-### [Portfolio Site](https://github.com/moolair/moolair.github.io)
-Personal portfolio and resume site introducing my background, experience, and projects.
-
-### [Express API Server](https://github.com/moolair/expressAPIServer)
-REST API server project built with **Express** and **MongoDB**.
-
-### [StudyTimer Android](https://github.com/moolair/StudyTimer-Android)
-A focused mobile project built around study and productivity workflows.
 
 ## Tech
 
