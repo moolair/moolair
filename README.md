@@ -34,5 +34,6 @@ My background in both **support** and **development** helps me approach problems
 
 ## Connect
 
-- GitHub: [moolair](https://github.com/moolair)
+- Instagram: [wwyoungjin](https://www.instagram.com/wwyoungjin/)
+- LinkedIn: [youngjinjoisrighthere](https://www.linkedin.com/in/youngjinisrighthere/)
 - Portfolio: [moolair.github.io](https://moolair.github.io/)
