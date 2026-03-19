@@ -1,39 +1,44 @@
-# Hi, I'm Youngjin Jo 👋
+# Youngjin Jo
 
-Backend-focused developer with experience in **IT support, web development, and automation**.
+**Full-Stack Developer | Go, React Native, AWS | Building AI-Powered Workflows**
 
-I'm currently growing as a **Go backend developer** while building practical products and exploring **agentic AI workflows** for faster product development.
+I build backend systems and ship products fast — now combining that with AI agent orchestration to automate development workflows.
 
-## Current focus
+8 years of hands-on experience across IT infrastructure, backend development, and mobile apps. I approach problems from both the system side and the user side.
 
-- AI-assisted development workflows
-- API design and backend systems
-- Practical product building
-- Go backend development
-- Exploring agentic orchestration across frontend, backend, QA, UX/UI, and product planning
+---
 
-## Tech
+### What I'm working on
 
-**Languages**  
-Go, JavaScript, PHP, SQL, Python
+- 🔧 **Go backend systems** — API design, gRPC, PostgreSQL, Redis, Docker
+- 🤖 **AI agent workflows** — multi-agent orchestration, prompt engineering, context engineering
+- 📱 **Mobile & web apps** — React Native, Firebase, full-stack delivery
+- ☁️ **Cloud infrastructure** — AWS (ECS, RDS, EC2), Docker, CI/CD automation
 
-**Backend / Infra**  
-Go, REST API, gRPC, PostgreSQL, Redis, Docker
+---
 
-**Frontend / App**  
-React, React Native, HTML, CSS
+### Tech Stack
 
-**Workflow / Tools**  
-Git, GitHub, AI coding tools, automation-first workflows
+```
+Backend:      Go · Node.js · PHP · Python · gRPC · REST API
+Frontend:     React · React Native · HTML/CSS · JavaScript
+Database:     PostgreSQL · MongoDB · MSSQL · Redis
+Infra:        AWS (ECS, RDS, EC2) · Docker · Firebase · Cloudflare
+AI/Workflow:  Claude API · AI agent orchestration · prompt engineering
+Tools:        Git · GitHub Actions · Jira · Bitbucket
+```
+---
 
-## About me
+### Currently exploring
 
-I enjoy building software that is practical, useful, and efficient.
+- Multi-agent AI systems for automating dev workflows (frontend, backend, QA, UX)
+- Shipping side projects faster using AI-assisted development
+- Building [moolair.com](https://moolair.com) — portfolio + AI agent demos
 
-My background in both **support** and **development** helps me approach problems from both the system side and the user side.
+---
 
-## Connect
+### Connect
 
-- Instagram: [wwyoungjin](https://www.instagram.com/wwyoungjin/)
-- LinkedIn: [youngjinjoisrighthere](https://www.linkedin.com/in/youngjinisrighthere/)
-- Portfolio: [moolair.github.io](https://moolair.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moolair.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://moolair.com)
+[![Email](https://img.shields.io/badge/Email-youngjinjo@outlook.com-000?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:youngjinjo@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-moolair-000?style=flat-square&logo=github&logoColor=white)](https://github.com/moolair)
