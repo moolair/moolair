@@ -41,4 +41,4 @@ Tools:        Git · GitHub Actions · Jira · Bitbucket
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moolair.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://moolair.com)
 [![Email](https://img.shields.io/badge/Email-youngjinjo@outlook.com-000?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:youngjinjo@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-moolair-000?style=flat-square&logo=github&logoColor=white)](https://github.com/moolair)
+[![Instagram](https://img.shields.io/badge/Instagram-wwyoungjin-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/wwyoungjin/)
