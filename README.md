@@ -1,7 +1,7 @@
 ### Hi, I'm Youngjin 👋
 
-I use AI to build things — mostly small backend systems and side projects.
-Some ship, some are just experiments.
+I build practical software, mostly backend services, internal tools, and side projects.
 
-These days: Go, Docker, AWS, and stitching together multi-agent
-workflows with the Claude API to move faster.
+Currently working with Go, Docker, AWS, and automation workflows.
+
+I enjoy turning rough ideas into working products and improving them through real world use.
